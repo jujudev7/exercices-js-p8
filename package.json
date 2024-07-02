@@ -1,0 +1,26 @@
+{
+  "name": "p8-da-jsreact",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start:ex1": "node Exercice1/index.js",
+    "start:ex2": "node Exercice2/index.js",
+    "start:ex3": "node Exercice3/index.js",
+    "start:ex4": "node Exercice4/index.js",
+    "start:ex5": "node Exercice5/index.js",
+    "start:ex6": "node Exercice4/index.js",
+    "start:ex7": "node Exercice5/index.js",
+    "start:ex8": "node Exercice4/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "devDependencies": {
+    "cypress": "^13.8.1"
+  }
+}
