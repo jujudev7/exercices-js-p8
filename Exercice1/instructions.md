@@ -1,6 +1,6 @@
 # Instructions
 
-Créez une fonction pairNumbers contenant boucle JavaScript qui retourne une chaîne de caractères avec tous les nombres pairs entre un minimum et maximum séparés par une virgule (sans espace).
+Créez une fonction pairNumbers contenant une boucle JavaScript qui retourne une chaîne de caractères avec tous les nombres pairs entre un minimum et maximum séparés par une virgule (sans espace).
 
 Exemple : pairNumbers(1, 10) retournera 2,4,6,8,10
 
