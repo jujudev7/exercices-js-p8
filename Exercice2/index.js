@@ -1,4 +1,12 @@
 // Créez votre fonction ici
+
+// Pour créer la fonction JavaScript calculate, nous allons suivre les étapes suivantes:
+
+// 1. Définir la fonction calculate qui prend 3 paramètres : 2 nombres (num1 et num2) et 1 opérateur (operator).
+// 2. Utiliser une structure de contrôle (switch ou if-else) pour déterminer l'opération à effectuer en fonction de l'opérateur.
+// 3. Effectuer l'opération correspondante et retourner le résultat.
+// 4. Gérer les cas d'erreur tels que la division par zéro.
+
 /**
  * Fonction pour effectuer une opération mathématique basique entre deux nombres.
  *
